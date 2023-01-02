@@ -63,6 +63,48 @@
             "links": []
         },
         {
+            "title": "CAP",
+            "expanded": true,
+            "tiles": [
+                {
+                    "header": "CAP Guide",
+                    "url": "https://cap.cloud.sap",
+                    "headerImage": "sap-icon://syntax"
+                },
+                {
+                    "header": "SAP Cloud SDK",
+                    "subheader": "",
+                    "url": "https://sap.github.io/cloud-sdk/",
+                    "headerImage": "https://sap.github.io/cloud-sdk/img/logo-dark.svg"
+                },
+                {
+                    "header": "Node.js",
+                    "subheader": "API",
+                    "url": "https://nodejs.org/api/",
+                    "headerImage": "https://nodejs.org/static/images/logo.svg"
+                },
+                {
+                    "header": "Node.js",
+                    "subheader": "Syntax Support",
+                    "url": "https://node.green/",
+                    "headerImage": "https://node.green/logo.png"
+                },
+                {
+                    "header": "Lodash",
+                    "subheader": "JS Utilities",
+                    "url": "https://lodash.com/",
+                    "headerImage": "https://lodash.com/assets/img/lodash.svg"
+                },
+                {
+                    "header": "API Business HUB",
+                    "subheader": "SAP",
+                    "url": "https://api.sap.com/",
+                    "headerImage": "sap-icon://connected"
+                }
+            ],
+            "links": []
+        },
+        {
             "title": "ABAP",
             "expanded": true,
             "tiles": [
@@ -96,42 +138,6 @@
                     "url": "https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/LATEST/en-US/2002380aeda84875a5fae4adc66b3fdb.html"
                 }
             ]
-        },
-        {
-            "title": "CAP",
-            "expanded": true,
-            "tiles": [
-                {
-                    "header": "CAP Guide",
-                    "url": "https://cap.cloud.sap",
-                    "headerImage": "sap-icon://syntax"
-                },
-                {
-                    "header": "SAP Cloud SDK",
-                    "subheader": "",
-                    "url": "https://sap.github.io/cloud-sdk/",
-                    "headerImage": "https://sap.github.io/cloud-sdk/img/logo-dark.svg"
-                },
-                {
-                    "header": "Node.js",
-                    "subheader": "Syntax Support",
-                    "url": "https://node.green/",
-                    "headerImage": "https://node.green/logo.png"
-                },   
-                {
-                    "header": "Lodash",
-                    "subheader": "JS Utilities",
-                    "url": "https://lodash.com/",
-                    "headerImage": "https://lodash.com/assets/img/lodash.svg"
-                },                             
-                {
-                    "header": "API Business HUB",
-                    "subheader": "SAP",
-                    "url": "https://api.sap.com/",
-                    "headerImage": "sap-icon://connected"
-                }
-            ],
-            "links": []
         },
         {
             "title": "DOORS",
