@@ -72,12 +72,6 @@
                     "headerImage": "sap-icon://syntax"
                 },
                 {
-                    "header": "SAP Cloud SDK",
-                    "subheader": "",
-                    "url": "https://sap.github.io/cloud-sdk/",
-                    "headerImage": "https://sap.github.io/cloud-sdk/img/logo-dark.svg"
-                },
-                {
                     "header": "Node.js",
                     "subheader": "API",
                     "url": "https://nodejs.org/api/",
@@ -94,13 +88,32 @@
                     "subheader": "JS Utilities",
                     "url": "https://lodash.com/",
                     "headerImage": "https://lodash.com/assets/img/lodash.svg"
+                }
+            ],
+            "links": []
+        },
+        {
+            "title": "BTP",
+            "expanded": true,
+            "tiles": [
+                {
+                    "header": "SAP Cloud SDK",
+                    "subheader": "",
+                    "url": "https://sap.github.io/cloud-sdk/",
+                    "headerImage": "https://sap.github.io/cloud-sdk/img/logo-dark.svg"
                 },
                 {
                     "header": "API Business HUB",
                     "subheader": "SAP",
                     "url": "https://api.sap.com/",
                     "headerImage": "sap-icon://connected"
-                }
+                },
+                {
+                    "header": "SAP Graph",
+                    "subheader": "SAP",
+                    "url": "https://api.sap.com/graph",
+                    "headerImage": "sap-icon://tree"
+                }            
             ],
             "links": []
         },
