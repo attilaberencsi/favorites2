@@ -113,7 +113,13 @@
                     "subheader": "SAP",
                     "url": "https://api.sap.com/graph",
                     "headerImage": "sap-icon://tree"
-                }            
+                },
+                {
+                    "header": "SAP Graph",
+                    "subheader": "Tutorial",
+                    "url": "https://blogs.sap.com/2021/06/08/sap-graph-multi-part-tutorial-information-map/?preview_id=1338579",
+                    "headerImage": "sap-icon://source-code"
+                }
             ],
             "links": []
         },
