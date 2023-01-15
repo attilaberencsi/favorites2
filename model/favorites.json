@@ -184,6 +184,12 @@
                     "header": "GitHub",
                     "url": "https://github.com",
                     "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                },
+                {
+                    "header": "GitHub",
+                    "subheader": "SEARCH",
+                    "url": "https://github.com/search",
+                    "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 }
             ],
             "links": []
