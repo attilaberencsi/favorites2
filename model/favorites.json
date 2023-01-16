@@ -190,7 +190,13 @@
                     "subheader": "SEARCH",
                     "url": "https://github.com/search",
                     "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                }
+                },
+                {
+                    "header": "Bitbucket",
+                    "subheader": "Dashboard",
+                    "url": "https://bitbucket.org/dashboard/overview",
+                    "headerImage": "sap-icon://source-code"
+                }                
             ],
             "links": []
         },
