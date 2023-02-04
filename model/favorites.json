@@ -63,7 +63,7 @@
             "links": []
         },
         {
-            "title": "CAP",
+            "title": "CAP & Node.js",
             "expanded": true,
             "tiles": [
                 {
@@ -84,11 +84,17 @@
                     "headerImage": "https://node.green/logo.png"
                 },
                 {
+                    "header": "Express",
+                    "subheader": "Middlewares",
+                    "url": "http://expressjs.com/en/resources/middleware.html",
+                    "headerImage": "https://node.green/logo.png",
+                    "appShortcut": "Node.js"
+                },        
+                {
                     "header": "Lodash",
                     "subheader": "JS Utilities",
-                    "url": "https://lodash.com/",
-                    "headerImage": "https://lodash.com/assets/img/lodash.svg"
-                }
+                    "url": "https://lodash.com/"
+                }                
             ],
             "links": []
         },
