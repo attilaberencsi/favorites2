@@ -58,7 +58,13 @@
                     "subheader": "SAP Press",
                     "url": "https://clean-ui5.github.io/samples",
                     "headerImage": "https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
-                }
+                },
+                {
+                    "header": "Fiori Dev on BTP",
+                    "subheader": "Nuts and Bolts",
+                    "url": "https://clean-ui5.github.io/samples",
+                    "headerImage": "https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
+                }                
             ],
             "links": []
         },
@@ -93,7 +99,17 @@
                     "header": "Lodash",
                     "subheader": "JS Utilities",
                     "url": "https://lodash.com/"
-                }                
+                },
+                {
+                    "header": "NPM",
+                    "subheader": "Recursive Install",
+                    "url": "https://www.npmjs.com/package/recursive-install"
+                },
+                {
+                    "header": "CAP",
+                    "subheader": "Remote Debugging on BTP",
+                    "url": "https://blogs.sap.com/2021/06/11/set-up-remote-debugging-to-diagnose-cap-applications-node.js-stack-at-runtime-running-on-sap-btp-cloud-foundry-environment"
+                }                                
             ],
             "links": []
         },
@@ -148,7 +164,14 @@
                     "subheader": "Community",
                     "url": "https://community.sap.com/topics/abap/rap",
                     "headerImage": "sap-icon://sap-logo-shape"
+                },
+                {
+                    "header": "RAP Showcase",
+                    "subheader": "Fiori Elements",
+                    "url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
+                    "headerImage": "sap-icon://sap-logo-shape"
                 }
+
             ],
             "links": [
                 {
