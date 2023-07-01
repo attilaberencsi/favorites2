@@ -94,7 +94,13 @@
                     "subheader": "Middlewares",
                     "url": "http://expressjs.com/en/resources/middleware.html",
                     "appShortcut": "Node.js"
-                },        
+                },
+                {
+                    "header": "Fiori Elements Showcase",
+                    "subheader": "OData V4",
+                    "url": "https://github.com/SAP-samples/fiori-elements-feature-showcase",
+                    "appShortcut": "CAP"
+                },                        
                 {
                     "header": "Lodash",
                     "subheader": "JS Utilities",
