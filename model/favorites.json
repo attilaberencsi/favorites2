@@ -70,7 +70,7 @@
         },
         {
             "title": "CAP & Node.js",
-            "expanded": true,
+            "expanded": false,
             "tiles": [
                 {
                     "header": "CAP Guide",
@@ -127,7 +127,7 @@
         },
         {
             "title": "BTP",
-            "expanded": true,
+            "expanded": false,
             "tiles": [
                 {
                     "header": "SAP Cloud SDK",
@@ -158,7 +158,7 @@
         },
         {
             "title": "ABAP",
-            "expanded": true,
+            "expanded": false,
             "tiles": [
                 {
                     "header": "Clean ABAP",
@@ -200,7 +200,7 @@
         },
         {
             "title": "DOORS",
-            "expanded": true,
+            "expanded": false,
             "tiles": [
                 {
                     "header": "Support",
@@ -242,7 +242,7 @@
         },
         {
             "title": "GLUE",
-            "expanded": true,
+            "expanded": false,
             "tiles": [
                 {
                     "header": "Developers",
