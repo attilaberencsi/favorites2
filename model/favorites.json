@@ -37,6 +37,12 @@
                     "headerImage": "https://avatars.githubusercontent.com/u/6078720?s=200&v=4"
                 },
                 {
+                    "header": "TypeScript",
+                    "subheader": "for JS Devs",
+                    "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+                    "appShortcut": "TS"
+                },
+                {
                     "header": "UI5 Tooling",
                     "url": "https://sap.github.io/ui5-tooling",
                     "headerImage": "https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
@@ -64,7 +70,7 @@
                     "subheader": "Nuts and Bolts",
                     "url": "https://clean-ui5.github.io/samples",
                     "headerImage": "https://sapui5.hana.ondemand.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png"
-                }                
+                }
             ],
             "links": []
         },
@@ -94,7 +100,7 @@
                     "subheader": "Process,Thread,EventLoop",
                     "url": "https://soshace.com/advanced-node-js-a-hands-on-guide-to-event-loop-child-process-and-worker-threads-in-node-js/",
                     "headerImage": "https://node.green/logo.png"
-                },                
+                },
                 {
                     "header": "Express",
                     "subheader": "Middlewares",
@@ -106,7 +112,7 @@
                     "subheader": "OData V4",
                     "url": "https://github.com/SAP-samples/fiori-elements-feature-showcase",
                     "appShortcut": "CAP"
-                },                        
+                },
                 {
                     "header": "Lodash",
                     "subheader": "JS Utilities",
@@ -121,7 +127,7 @@
                     "header": "CAP",
                     "subheader": "Remote Debugging on BTP",
                     "url": "https://blogs.sap.com/2021/06/11/set-up-remote-debugging-to-diagnose-cap-applications-node.js-stack-at-runtime-running-on-sap-btp-cloud-foundry-environment"
-                }                                
+                }
             ],
             "links": []
         },
@@ -183,7 +189,6 @@
                     "url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
                     "headerImage": "sap-icon://sap-logo-shape"
                 }
-
             ],
             "links": [
                 {
@@ -236,7 +241,7 @@
                     "subheader": "Dashboard",
                     "url": "https://bitbucket.org/dashboard/overview",
                     "headerImage": "sap-icon://source-code"
-                }                
+                }
             ],
             "links": []
         },
