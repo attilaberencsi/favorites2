@@ -199,8 +199,13 @@
                     "header": "RAP Showcase",
                     "subheader": "Fiori Elements",
                     "url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
-                    "headerImage": "sap-icon://sap-logo-shape"
-                }
+                    "headerImage": "sap-icon://sap-logo-shape"                                
+                },
+                {
+                    "header": "ABAP Cloud FAQ",
+                    "url": "https://attilaberencsi.github.io/christmaseve/",
+                    "headerImage": "sap-icon://cloud"                      
+                }                
             ],
             "links": [
                 {
