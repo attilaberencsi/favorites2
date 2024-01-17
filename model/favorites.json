@@ -210,9 +210,14 @@
             "links": [
                 {
                     "header": "ABAPGit",
-                    "url": "https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/LATEST/en-US/2002380aeda84875a5fae4adc66b3fdb.html",
+                    "url": "https://github.com/marketplace/abaplint",
                     "headerImage": "https://git-scm.com/images/logo@2x.png"
                 },
+                {
+                    "header": "ABAPLint",
+                    "url": "https://abaplint.org/",
+                    "headerImage": "https://abaplint.org/img/abaplint.svg"
+                },                
                 {
                     "header": "ABAP CI Plugin",
                     "subheader": "Eclipse",
