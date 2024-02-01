@@ -202,6 +202,24 @@
                     "headerImage": "sap-icon://sap-logo-shape"                                
                 },
                 {
+                    "header": "RAP Feature List",
+                    "subheader": "by Version",
+                    "url": "https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/index.htm?file=abenrap_feature_table.htm",
+                    "headerImage": "sap-icon://sap-logo-shape"                                
+                },
+                {
+                    "header": "ABAP CDS Feature List",
+                    "subheader": "by Version",
+                    "url": "https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/index.htm?file=abencds_language_elements.htm",
+                    "headerImage": "sap-icon://sap-logo-shape"                                
+                },
+                {
+                    "header": "ABAP CDS Feature Matrix",
+                    "subheader": "by Version",
+                    "url": "https://community.sap.com/t5/application-development-blog-posts/feature-matrix-data-modeling-with-abap-core-data-services/ba-p/13543592",
+                    "headerImage": "sap-icon://sap-logo-shape"                                
+                },                      
+                {
                     "header": "ABAP Cloud FAQ",
                     "url": "https://attilaberencsi.github.io/christmaseve/",
                     "headerImage": "sap-icon://cloud"                      
