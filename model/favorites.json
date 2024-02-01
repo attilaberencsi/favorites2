@@ -222,7 +222,12 @@
                     "header": "ABAP CI Plugin",
                     "subheader": "Eclipse",
                     "url": "https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/LATEST/en-US/2002380aeda84875a5fae4adc66b3fdb.html"
-                }
+                },                                
+                {
+                    "header": "ADT Handbook",
+                    "subheader": "DSAG",
+                    "url": "resources/doc/Handbook_ADT_Eclipse.pdf"
+                }                
             ]
         },
         {
