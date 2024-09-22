@@ -28,12 +28,6 @@
                     "headerImage": "sap-icon://sap-logo-shape"
                 },
                 {
-                    "header": "RAP Showcase",
-                    "subheader": "Fiori Elements",
-                    "url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
-                    "headerImage": "sap-icon://sap-logo-shape"
-                },
-                {
                     "header": "RAP Feature List",
                     "subheader": "by Version",
                     "url": "https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/index.htm?file=abenrap_feature_table.htm",
@@ -50,7 +44,7 @@
                     "subheader": "What's New",
                     "url": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/4726775c8bfc483abb210252604515b2/e9b10e43016e423ab0efe91e668a6efc.html?locale=en-US",
                     "headerImage": "sap-icon://sap-logo-shape"
-                },     
+                },
                 {
                     "header": "ABAP CDS Feature List",
                     "subheader": "by Version",
@@ -126,8 +120,16 @@
                 {
                     "header": "FE Feature Showcase",
                     "subheader": "V4",
+                    "url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
+                    "headerImage": "sap-icon://sap-logo-shape",
+                    "appShortcut": "RAP"
+                },
+                {
+                    "header": "FE Feature Showcase",
+                    "subheader": "V4",
                     "url": "https://github.com/SAP-samples/fiori-elements-feature-showcase",
-                    "headerImage": "sap-icon://sap-box"
+                    "headerImage": "sap-icon://sap-box",
+                    "appShortcut": "CAP"
                 },
                 {
                     "header": "FE Flexible Programming",
