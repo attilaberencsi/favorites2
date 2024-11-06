@@ -17,6 +17,13 @@
                     "headerImage": "sap-icon://syntax"
                 },
                 {
+                    "header": "ABAP Data Models",
+                    "subheader": "SAP",
+                    "url": "https://help.sap.com/docs/abap-cloud/abap-data-models/abap-data-models?locale=en-US?version=sap_btp",
+                    "headerImage": "sap-icon://tree"
+                },
+                
+                {
                     "header": "ABAP Open Source Projects",
                     "url": "https://dotabap.org/",
                     "headerImage": "https://dotabap.org/logos/dotabap_logo.svg"
