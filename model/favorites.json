@@ -22,7 +22,6 @@
                     "url": "https://help.sap.com/docs/abap-cloud/abap-data-models/abap-data-models?locale=en-US?version=sap_btp",
                     "headerImage": "sap-icon://tree"
                 },
-                
                 {
                     "header": "ABAP Open Source Projects",
                     "url": "https://dotabap.org/",
@@ -87,6 +86,11 @@
                     "header": "ABAPLint",
                     "url": "https://abaplint.org/",
                     "headerImage": "https://abaplint.org/img/abaplint.svg"
+                },
+                {
+                    "header": "ABAP API Definitions",
+                    "subheader": "abapedia",
+                    "url": "https://abapedia.org"
                 },
                 {
                     "header": "ABAP CI Plugin",
