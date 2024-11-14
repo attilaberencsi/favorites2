@@ -101,7 +101,12 @@
                     "header": "ADT Handbook",
                     "subheader": "DSAG",
                     "url": "resources/doc/Handbook_ADT_Eclipse.pdf"
-                }
+                },
+                {
+                    "header": "BTP ABAP Environment",
+                    "subheader": "Getting Started",
+                    "url": "https://help.sap.com/docs/btp/sap-business-technology-platform/getting-started-with-customer-account-in-abap-environment?locale=en-US"
+                }                
             ]
         },
         {
