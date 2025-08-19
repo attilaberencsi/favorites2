@@ -78,6 +78,15 @@
             ],
             "links": [
                 {
+                    "header": "Clean core extensibility",
+                    "subheader": "S/4HANA Cloud",
+                    "url": "https://www.sap.com/documents/2024/09/20aece06-d87e-0010-bca6-c68f7e60039b.html"
+                },
+                {
+                    "header": "Cloudification Repository Viewer",
+                    "url": "https://sap.github.io/abap-atc-cr-cv-s4hc/"
+                },                   
+                {
                     "header": "ABAPGit",
                     "url": "https://github.com/marketplace/abaplint",
                     "headerImage": "https://git-scm.com/images/logo@2x.png"
