@@ -85,7 +85,12 @@
                 {
                     "header": "Cloudification Repository Viewer",
                     "url": "https://github.com/SAP/abap-atc-cr-cv-s4hc"
-                },                   
+                },
+                {
+                    "header": "Cloudification Repository Viewer",
+                    "subheader": "Successor Search",
+                    "url": "https://software-heroes.com/en/cloudification-repository-viewer"
+                },                
                 {
                     "header": "ABAPGit",
                     "url": "https://github.com/marketplace/abaplint",
