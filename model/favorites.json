@@ -83,6 +83,11 @@
                     "url": "https://www.sap.com/documents/2024/09/20aece06-d87e-0010-bca6-c68f7e60039b.html"
                 },
                 {
+                    "header": "ABAP Extensibility Guide",
+                    "subheader": "Level Concept",
+                    "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14175399                "
+                },                
+                {
                     "header": "Cloudification Repository Viewer",
                     "url": "https://github.com/SAP/abap-atc-cr-cv-s4hc"
                 },
