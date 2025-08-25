@@ -153,6 +153,11 @@
                     "headerImage": "sap-icon://sap-box"
                 },
                 {
+                    "header": "UI Development",
+                    "url": "https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/ui-development-overview?locale=en-US&version=LATEST",
+                    "systemInfo": "BTP ABAP"
+                },
+                {
                     "header": "FE Feature Showcase",
                     "subheader": "V4",
                     "url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
