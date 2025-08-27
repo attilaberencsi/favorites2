@@ -158,6 +158,11 @@
                     "systemInfo": "BTP ABAP"
                 },
                 {
+                    "header": "Fiori Tools",
+                    "subheader": "User Guide",
+                    "url": "https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/f09752ebcf63473e9194ea29ca232e56.html?locale=en-US&version=LATEST"                    
+                },                
+                {
                     "header": "FE Feature Showcase",
                     "subheader": "V4",
                     "url": "https://github.com/SAP-samples/abap-platform-fiori-feature-showcase",
