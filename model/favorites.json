@@ -391,6 +391,12 @@
                     "headerImage": "sap-icon://e-learning"
                 },
                 {
+                    "header": "Learning",
+                    "subheader": "SAP",
+                    "url": "https://learning.sap.com/",
+                    "headerImage": "sap-icon://e-learning"
+                },                
+                {
                     "header": "Developer Tools",
                     "subheader": "SAP",
                     "url": "https://tools.hana.ondemand.com/",
