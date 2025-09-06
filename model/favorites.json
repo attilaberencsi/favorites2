@@ -95,7 +95,12 @@
                     "header": "Cloudification Repository Viewer",
                     "subheader": "Successor Search",
                     "url": "https://software-heroes.com/en/cloudification-repository-viewer"
-                },                
+                },
+                {
+                    "header": "RAP Transactional Model",
+                    "subheader": "SAP LUW",
+                    "url": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/ccda1094b0f845e28b88f9f50a68dfc4.html?locale=en-US&version=LATEST"
+                },                            
                 {
                     "header": "ABAPGit",
                     "url": "https://github.com/marketplace/abaplint",
