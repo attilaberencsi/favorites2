@@ -85,8 +85,13 @@
                 {
                     "header": "ABAP Extensibility Guide",
                     "subheader": "Level Concept",
-                    "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14175399                "
-                },                
+                    "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14175399"
+                },
+                {
+                    "header": "Extensibility Explorer",
+                    "subheader": "S/4HANA Cloud",
+                    "url": "https://extensibilityexplorer.cfapps.eu10.hana.ondemand.com/ExtensibilityExplorer/"
+                },                                
                 {
                     "header": "Cloudification Repository Viewer",
                     "url": "https://github.com/SAP/abap-atc-cr-cv-s4hc"
