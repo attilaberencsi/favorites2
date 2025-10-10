@@ -73,7 +73,7 @@
                     "url": "https://help.sap.com/docs/btp/sap-business-technology-platform/software-component-lifecycle-management?locale=en-US",
                     "headerImage": "sap-icon://inventory",
                     "appShortcut": "gCTS",
-                    "systemInfo": "BTP ABAP",
+                    "systemInfo": "BTP ABAP"
                 }
             ],
             "links": [
