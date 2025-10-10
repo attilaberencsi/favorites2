@@ -73,7 +73,7 @@
                     "url": "https://help.sap.com/docs/btp/sap-business-technology-platform/software-component-lifecycle-management?locale=en-US",
                     "headerImage": "sap-icon://inventory",
                     "appShortcut": "gCTS",
-                    "systemInfo": "BTP ABAP"
+                    "systemInfo": "BTP ABAP",
                 }
             ],
             "links": [
@@ -91,7 +91,7 @@
                     "header": "Extensibility Explorer",
                     "subheader": "S/4HANA Cloud",
                     "url": "https://extensibilityexplorer.cfapps.eu10.hana.ondemand.com/ExtensibilityExplorer/"
-                },                                
+                },
                 {
                     "header": "Cloudification Repository Viewer",
                     "url": "https://github.com/SAP/abap-atc-cr-cv-s4hc"
@@ -107,7 +107,7 @@
                     "url": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/ccda1094b0f845e28b88f9f50a68dfc4.html?locale=en-US&version=LATEST"
                 },
                 {
-                    "header": "Controlled SAP LUW",                    
+                    "header": "Controlled SAP LUW",
                     "url": "https://help.sap.com/docs/abap-cloud/abap-concepts/controlled-sap-luw"
                 },
                 {
@@ -139,7 +139,12 @@
                     "header": "BTP ABAP Environment",
                     "subheader": "Getting Started",
                     "url": "https://help.sap.com/docs/btp/sap-business-technology-platform/getting-started-with-customer-account-in-abap-environment?locale=en-US"
-                }                
+                },
+                {
+                    "header": "APAB Platform",
+                    "subheader": "Hands-on Workshops",
+                    "url": "https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main"
+                }
             ]
         },
         {
@@ -174,8 +179,8 @@
                 {
                     "header": "Fiori Tools",
                     "subheader": "User Guide",
-                    "url": "https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/f09752ebcf63473e9194ea29ca232e56.html?locale=en-US&version=LATEST"                    
-                },                
+                    "url": "https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/f09752ebcf63473e9194ea29ca232e56.html?locale=en-US&version=LATEST"
+                },
                 {
                     "header": "FE Feature Showcase",
                     "subheader": "V4",
@@ -409,7 +414,7 @@
                     "subheader": "SAP",
                     "url": "https://learning.sap.com/",
                     "headerImage": "sap-icon://e-learning"
-                },                
+                },
                 {
                     "header": "Developer Tools",
                     "subheader": "SAP",
