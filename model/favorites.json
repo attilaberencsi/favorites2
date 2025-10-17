@@ -337,19 +337,18 @@
                     "headerImage": "sap-icon://source-code"
                 },
                 {
-                    "header": "Solution Diagrams",
-                    "subheader": "draw.io",
+                    "header": "BTP",
+                    "subheader": "Developer's Guide",
                     "url": "https://help.sap.com/docs/btp/btp-developers-guide/what-is-btp-developers-guide",
                     "headerImage": "sap-icon://hint"
                 },
                 {
-                    "header": "BTP",
-                    "subheader": "Developer's Guide",
+                    "header": "Solution Diagrams",
+                    "subheader": "draw.io",
                     "url": "https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/",
                     "headerImage": "sap-icon://draw-rectangle",
                     "systemInfo": "BTP"
                 }
-                
             ],
             "links": []
         },
