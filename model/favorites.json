@@ -196,10 +196,11 @@
                     "appShortcut": "CAP"
                 },
                 {
-                    "header": "FE Flexible Programming",
-                    "subheader": "Explorer",
+                    "header": "Fiori Development Portal",
+                    "subheader": "aka. FE Flexible Programming",
                     "url": "https://sapui5.hana.ondemand.com/test-resources/sap/fe/core/fpmExplorer/index.html#/overview/introduction",
-                    "headerImage": "sap-icon://explorer"
+                    "headerImage": "sap-icon://explorer",
+                    "systemInfo": "OData V4"
                 },
                 {
                     "header": "Easy-UI5",
