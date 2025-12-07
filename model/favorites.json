@@ -302,6 +302,11 @@
                     "url": "https://www.npmjs.com/package/recursive-install"
                 },
                 {
+                    "header": "Dev Tools",
+                    "url": "https://www.npmjs.com/package/@sap/dev-cap-tools",
+                    "appShortcut": "npm"
+                },
+                {
                     "header": "CAP",
                     "subheader": "Remote Debugging on BTP",
                     "url": "https://blogs.sap.com/2021/06/11/set-up-remote-debugging-to-diagnose-cap-applications-node.js-stack-at-runtime-running-on-sap-btp-cloud-foundry-environment"
