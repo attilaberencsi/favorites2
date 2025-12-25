@@ -353,6 +353,12 @@
                     "url": "https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/",
                     "headerImage": "sap-icon://draw-rectangle",
                     "systemInfo": "BTP"
+                },
+                {
+                    "header": "Discovery Center",
+                    "subheader": "SAP",
+                    "url": "https://discovery-center.cloud.sap",
+                    "headerImage": "sap-icon://explore"
                 }
             ],
             "links": []
