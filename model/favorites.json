@@ -309,7 +309,13 @@
                     "header": "CAP",
                     "subheader": "Remote Debugging on BTP",
                     "url": "https://blogs.sap.com/2021/06/11/set-up-remote-debugging-to-diagnose-cap-applications-node.js-stack-at-runtime-running-on-sap-btp-cloud-foundry-environment"
-                }
+                },
+                {
+                    "header": "Authorization Management Service",
+                    "subheader": "CAP",
+                    "url": "https://www.npmjs.com/package/@sap/ams",
+                    "appShortcut": "NPM"
+                }                                                   
             ],
             "links": []
         },
