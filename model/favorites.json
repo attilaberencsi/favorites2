@@ -315,9 +315,14 @@
                     "subheader": "CAP",
                     "url": "https://www.npmjs.com/package/@sap/ams",
                     "appShortcut": "NPM"
-                }                                                   
+                }
             ],
-            "links": []
+            "links": [
+                {
+                    "header": "Capire Docs & Samples",
+                    "url": "https://github.com/capire"
+                }
+            ]
         },
         {
             "title": "BTP",
