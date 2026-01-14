@@ -359,6 +359,11 @@
                     "headerImage": "sap-icon://hint"
                 },
                 {
+                    "header": "Cloud Foundry + HANA",
+                    "subheader": "Programming Model",
+                    "url": "https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-developer-guide-for-cloud-foundry-multitarget-applications-sap-business-app-studio/cloud-foundry-programming-model?locale=en-US&version=LATEST"
+                },
+                {
                     "header": "Solution Diagrams",
                     "subheader": "draw.io",
                     "url": "https://sap.github.io/btp-solution-diagrams/docs/solution_diagr_intro/intro/",
