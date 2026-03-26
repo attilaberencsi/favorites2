@@ -141,7 +141,7 @@
                     "url": "https://help.sap.com/docs/btp/sap-business-technology-platform/getting-started-with-customer-account-in-abap-environment?locale=en-US"
                 },
                 {
-                    "header": "APAB Platform",
+                    "header": "ABAP Platform",
                     "subheader": "Hands-on Workshops",
                     "url": "https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main"
                 }
@@ -196,7 +196,7 @@
                     "appShortcut": "CAP"
                 },
                 {
-                    "header": "Fiori Development Portal",
+                    "header": "Fiori Dev Portal",
                     "subheader": "aka. FE Flexible Programming",
                     "url": "https://sapui5.hana.ondemand.com/test-resources/sap/fe/core/fpmExplorer/index.html#/overview/introduction",
                     "headerImage": "sap-icon://explorer",
@@ -359,10 +359,11 @@
                     "headerImage": "sap-icon://hint"
                 },
                 {
-                    "header": "Cloud Foundry + HANA",
-                    "subheader": "Programming Model",
-                    "url": "https://help.sap.com/docs/hana-cloud-database/sap-hana-cloud-sap-hana-database-developer-guide-for-cloud-foundry-multitarget-applications-sap-business-app-studio/cloud-foundry-programming-model?locale=en-US&version=LATEST"
-                },
+                    "header": "MTA Modules and Resources",
+                    "subheader": "Possible Parameter Values",
+                    "url": "https://help.sap.com/docs/btp/sap-business-technology-platform/parameters-and-properties?locale=en-US&version=LATEST",
+                    "headerImage": "sap-icon://hint"
+                },                
                 {
                     "header": "Solution Diagrams",
                     "subheader": "draw.io",
@@ -379,6 +380,25 @@
             ],
             "links": []
         },
+        {
+            "title": "AI",
+            "expanded": false,
+            "tiles": [
+                {
+                    "header": "Spec Kit",
+                    "subheader": "GitHub",
+                    "url": "https://github.com/github/spec-kit",
+                    "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                },
+                {
+                    "header": "SAP AI Repositories",
+                    "subheader": "Open Source MCP+Skill",
+                    "url": "https://github.com/marianfoo/sap-ai-mcp-servers",
+                    "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                }                            
+            ],
+            "links": []
+        },        
         {
             "title": "DOORS",
             "expanded": false,
