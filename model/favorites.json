@@ -261,6 +261,11 @@
                     "headerImage": "sap-icon://syntax"
                 },
                 {
+                    "header": "Best of cap-js",
+                    "url": "https://bestofcapjs.org/",
+                    "headerImage": "sap-icon://arobase"
+                },
+                {
                     "header": "Node.js",
                     "subheader": "API",
                     "url": "https://nodejs.org/api/",
@@ -412,7 +417,7 @@
                 {
                     "header": "BTP Trial",
                     "subheader": "SAP",
-                    "url": "https://account.hanatrial.ondemand.com/trial/#/home/trial",
+                    "url": "https://cockpit.hanatrial.ondemand.com/",
                     "headerImage": "sap-icon://cloud"
                 },
                 {
