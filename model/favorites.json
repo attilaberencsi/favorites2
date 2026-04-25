@@ -400,7 +400,13 @@
                     "subheader": "Open Source MCP+Skill",
                     "url": "https://github.com/marianfoo/sap-ai-mcp-servers",
                     "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                }                            
+                },
+                {
+                    "header": "Agent Skills",
+                    "subheader": "standard",
+                    "url": "https://agentskills.io/home",
+                    "headerImage": "sap-icon://add-coursebook"
+                }                                       
             ],
             "links": []
         },        
