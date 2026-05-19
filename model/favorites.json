@@ -406,7 +406,13 @@
                     "subheader": "standard",
                     "url": "https://agentskills.io/home",
                     "headerImage": "sap-icon://add-coursebook"
-                }                                       
+                },
+                {
+                    "header": "LLM Leaderboard",
+                    "subheader": "Huggingface",
+                    "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
+                    "headerImage": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+                }                                         
             ],
             "links": []
         },        
