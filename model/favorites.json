@@ -412,7 +412,13 @@
                     "subheader": "Huggingface",
                     "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
                     "headerImage": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-                }                                         
+                },
+                {
+                    "header": "Local LLM Leaderboard",
+                    "subheader": "MetriLLM ⚡- Community Stats",
+                    "url": "https://metrillm.dev/",
+                    "headerImage": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+                }                    
             ],
             "links": []
         },        
