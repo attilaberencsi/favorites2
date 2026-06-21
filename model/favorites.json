@@ -368,7 +368,7 @@
                     "subheader": "Possible Parameter Values",
                     "url": "https://help.sap.com/docs/btp/sap-business-technology-platform/parameters-and-properties?locale=en-US&version=LATEST",
                     "headerImage": "sap-icon://hint"
-                },                
+                },
                 {
                     "header": "Solution Diagrams",
                     "subheader": "draw.io",
@@ -390,15 +390,15 @@
             "expanded": false,
             "tiles": [
                 {
-                    "header": "Spec Kit",
-                    "subheader": "GitHub",
-                    "url": "https://github.com/github/spec-kit",
-                    "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                },
-                {
                     "header": "SAP AI Repositories",
                     "subheader": "Open Source MCP+Skill",
                     "url": "https://github.com/marianfoo/sap-ai-mcp-servers",
+                    "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                },
+                {
+                    "header": "Spec Kit",
+                    "subheader": "GitHub",
+                    "url": "https://github.com/github/spec-kit",
                     "headerImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 },
                 {
@@ -414,14 +414,13 @@
                     "headerImage": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
                 },
                 {
-                    "header": "Local LLM Leaderboard",
-                    "subheader": "MetriLLM ⚡- Community Stats",
-                    "url": "https://metrillm.dev/",
-                    "headerImage": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-                }                    
+                    "header": "AI Best Practices",
+                    "url": "https://btp-ai-bp.docs.sap/about",
+                    "systemInfo": "BTP"
+                }
             ],
             "links": []
-        },        
+        },
         {
             "title": "DOORS",
             "expanded": false,
